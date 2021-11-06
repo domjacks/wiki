@@ -1,4 +1,4 @@
 * [Streaming Protocols](video/streaming-protocols)
 * [Codecs](video/codecs)
-* [Web](video/web)
+* [Web Technologies](video/web)
 * [Subtitles](video/subtitles)
