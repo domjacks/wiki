@@ -1,4 +1,4 @@
-# Quality
+# Video Fundamentals
 
 ## Scanning methods
 
