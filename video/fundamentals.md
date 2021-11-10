@@ -23,8 +23,8 @@ Interlaced vs. Progressive
 
 ### UHD
 
-- 3840 x 2160
-- 7680 x 4320
+- 3840 x 2160 (4K)
+- 7680 x 4320 (8K)
 
 > Technically 4K was first coined as a cinema standard of 4096x2160, but the 4K referred to in TV terms is 3840x2160.
 
