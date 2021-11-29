@@ -8,6 +8,18 @@ Interlaced vs. Progressive
 
 50Hz vs 60Hz
 
+## Bitrates
+
+### Variable bitrate
+
+As opposed to CBR (constant bitrate), variable bitrate allows the amount of data per segment to be different. Meaning we can have a higher bitrate in more complex segments.
+
+This is great for things like storage considerations where you want high bitrates (meaning high storage) for parts of the video but want to save space for less complex parts.  
+
+### Adaptive bitrate
+
+This is a strategy commonly used in video streaming to change the bitrate of the content based on conditions of the device such as network capacity.
+
 ## Aspect Ratios
 
 - 16:9
