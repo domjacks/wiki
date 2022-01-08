@@ -12,6 +12,8 @@ MPEG Dynamic Adaptive Streaming over HTTP
 
 HTTP Live Streaming
 
+* .m3u8 - Playlist file
+
 ## Progressive Download
 
 Progressive Download is a type of pseudo-streaming. Where it differs from the standard streaming protocols is it does not support ABR.

@@ -8,9 +8,9 @@ Interlaced vs. Progressive
 
 50Hz vs 60Hz
 
-## Bitrates
+## Bitrates
 
-### Variable bitrate
+### Variable bitrate
 
 As opposed to CBR (constant bitrate), variable bitrate allows the amount of data per segment to be different. Meaning we can have a higher bitrate in more complex segments.
 
