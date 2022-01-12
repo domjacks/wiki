@@ -8,11 +8,22 @@ There are a few main standards bodies curating the various specs that make up fu
 
 WHATWG publishes both the HTML and DOM specs. Alongside some other specs such as Fetch, File System, Web Sockets etc.
 
-The W3C publishes a lot of other specs such as CSS, Media Source Extensions, Service Worker and lots of other smaller APIs and features that are allowing the web to become more powerful. They organise themselves into Working Groups and Interest Groups such as the MediaWG and the 
+The W3C basically publishes all the other specs such as CSS, Media Source Extensions, Service Worker and lots more. They organise themselves into Working Groups and Interest Groups such as the MediaWG and the TimedTextWG.
 
 And lastly, the Javascript and JSON specs are published by the ECMA organisation.
 
-There are also a bunch of other standards bodies that aren't web specific but still form a part of the functionality of the web. These includes bodies such as ISO (eg. JPEG), iETF (HTTP) and Unicode. 
+There are also a bunch of other standards bodies that aren't necessarily web specific but still form a part of the functionality of the web. These includes bodies such as ISO (eg. JPEG), IETF (HTTP) and Unicode.
+
+## Browser implementations
+
+The four main browser vendors are Google, Mozilla, Microsoft and Apple.
+
+We're currently left with 3 main browser engines.
+
+These are:
+- Chrome-based: Blink
+- Firefox-based: Gecko
+- Safari-based: Webkit
 
 # HTML
 
@@ -20,5 +31,6 @@ There are also a bunch of other standards bodies that aren't web specific but st
 
 # CSS
 
+CSS is made up of a lot of smaller specs. They are documented on the [W3C CSS Specs site](https://www.w3.org/Style/CSS/specs.en.html).
 
 
