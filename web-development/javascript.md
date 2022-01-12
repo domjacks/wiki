@@ -1,12 +1,12 @@
 # Javascript
 
-## Event Loop
-
-See ["What the heck is the event loop anyway?"](https://www.youtube.com/watch?v=8aGhZQkoFbQ) and [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) for an in-depth view of the JS event loop.
-
 ## Synchronous vs Asynchronous
 
-Javascript is _synchronous_. However, when used in a browser or Node context for example, it can use APIs available which are called asynchronous. This means, it doesn't, by default, wait for a response from those calls to the APIs.
+Javascript is _synchronous_. However, when used in a browser or Node context for example, it can use APIs available which are called _asynchronously_. This means, it doesn't, by default, wait for a response from those calls to the APIs before moving on to the next thing. This is handled by the Event Loop.
+
+### Event Loop
+
+See ["What the heck is the event loop anyway?"](https://www.youtube.com/watch?v=8aGhZQkoFbQ) and [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) for an in-depth view of the JS event loop which describes how Javascript decides when and what to execute.
 
 ### Browser APIs
 
