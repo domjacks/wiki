@@ -8,7 +8,7 @@ Javascript is _synchronous_. However, when used in a browser or Node context for
 
 See ["What the heck is the event loop anyway?"](https://www.youtube.com/watch?v=8aGhZQkoFbQ) and [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) for an in-depth view of the JS event loop which describes how Javascript decides when and what to execute.
 
-### Browser APIs
+## Browser APIs
 
 Some examples of the APIs and Objects that a browser provides that we use in our day-to-day:
 
