@@ -18,19 +18,9 @@ There are also a bunch of other standards bodies that aren't necessarily web spe
 
 The four main browser vendors are Google, Mozilla, Microsoft and Apple.
 
-We're currently left with 3 main browser engines.
-
-These are:
+We're currently left with 3 main browser engines:
 - Chrome-based: Blink
 - Firefox-based: Gecko
 - Safari-based: Webkit
-
-# HTML
-
-- [Living Standard](https://html.spec.whatwg.org/dev/)
-
-# CSS
-
-CSS is made up of a lot of smaller specs. They are documented on the [W3C CSS Specs site](https://www.w3.org/Style/CSS/specs.en.html).
 
 
