@@ -1,5 +1,5 @@
 * [👈 back](/)
-* [Fundamentals](fundamentals.md)
+* [Fundamentals](web-development/fundamentals.md)
 * [Javascript](web-development/javascript)
 * [MPA vs. SPA](web-development/mpa-spa)
 * [PWAs](web-development/progressive-web-apps)
