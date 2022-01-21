@@ -1,5 +1,5 @@
 * [👈 back](/)
-* [Video Fundamentals](video/fundamentals)
+* [Video Fundamentals](video/video-fundamentals)
 * [Digital Video](video/digital)
 * [Streaming](video/streaming)
 * [Web Technologies](video/web)
