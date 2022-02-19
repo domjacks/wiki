@@ -1,6 +1,7 @@
 * [👈 back](/)
 * [Video Fundamentals](video/video-fundamentals)
-* [Digital Video](video/digital)
+* [Audio Fundamentals](video/audio-fundamentals)
+* [Digital Media](video/digital-media)
 * [Streaming](video/streaming)
 * [Web Technologies](video/web)
 * [Subtitles](video/subtitles)

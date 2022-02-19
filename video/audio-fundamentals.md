@@ -1,6 +1,5 @@
 # Audio Fundamentals
 
-
 ## Mono, Stereo, Surround
 
 ### 5.1
