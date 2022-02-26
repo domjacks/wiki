@@ -63,21 +63,30 @@ There are many competing standards for HDR: HDR10, Dolby Vision, HLG
 
 Hybrid Log Gamma is a standard developed by the BBC and NHK. It is notable as it provides a format that broadcasters could use, as well as being backwards-compatible for SDR.
 
-It doesn't use any metadata at all and instead uses both the logarithmic and gamma curves used by TVs to calculate brightness for SDR and HDR.
+It doesn't use any metadata at all and instead uses both the logarithmic and gamma curves used by TVs to calculate brightness for SDR and HDR. 
 
-##### Dolby Vision
+HLG can be referring to the transfer function or the format.
+
+##### PQ
+
+PQ is an alternative transfer function to HLG that is used as basis of a range of HDR formats such as Dolby Vision, HDR10 and PQ10.
+###### Dolby Vision
 
 Propriety format from Dolby. It utilises dynamic metadata, meaning it can adjust the luminance for each scene (or even frame).
 
 Both a device and content has to be certified in order to be classified as Dolby Vision capable. Dolby works with TV manufacturers and content providers to also set some static metadata to tailor the experience.
 
-##### HDR10 
+###### HDR10 
 
 HDR10 is an open standard that uses static metadata to ensure it is consistent across all devices. 
 
 ###### HDR10+
 
 Samsung have developed their own format which builds upon HDR10 but adds some dynamic metadata. It is still an open standard. 
+
+###### PQ10
+
+System developed by Dolby that can be used on both images and video. It is essentially the same as HDR10 but without the metadata.
 
 ### Colour Gamut
 
