@@ -11,18 +11,27 @@ This section aims to capture principles and practices of Software Engineering.
 - YAGNI
 - Measure twice, cut once
 - Occam's Razor
+- Unix Philosophy
 
-## Programming
+## Paradigms
 
-- Approaches
-  - Imperative
-  - Declarative
-- Paradigms
+- Imperative
   - Procedural
-  - OOP
+  - Object-Oriented
+- Declarative
   - Functional
-- Types
-  - Event-driven
-  - Reactive
 
+## Design Patterns
 
+- Creational
+- Structural
+- Behavioral
+- Concurrency
+
+## Approaches
+
+- Test-driven development
+- Domain-driven development
+- Behaviour-driven development
+- Secure Coding
+- Config as code/GitOps/Infrastructure as code
