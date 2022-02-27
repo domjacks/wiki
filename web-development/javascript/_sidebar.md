@@ -1,4 +1,4 @@
-* [👈 back](/web-development)
+* [👈 back](/web-development/)
 * [Expressions & Statements](web-development/javascript/expressions-and-statements)
 * [Operators](web-development/javascript/operators)
 * [Data Types & Literals](web-development/javascript/data-types-and-literals)

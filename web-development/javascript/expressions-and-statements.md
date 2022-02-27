@@ -1,6 +1,6 @@
 # Expressions & Statements
 
-## Expression
+## Expressions
 
 An expression is any line of code that resolves to a value e.g.
 * `3 + 4`
