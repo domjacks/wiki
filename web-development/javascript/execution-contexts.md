@@ -19,11 +19,11 @@ Each EC gets the whole scope chain needed for it to be able to run all the code 
 
 It can be thought of as all the variable environments of all the parents scopes added together.
 
-See [Scope Chain](./scope-chain) for more info.
+See [Scope Chain](web-development/javascript/scope-chain) for more info.
 
 ### `this`
 
-See [the 'this' keyword](./this) for more info.
+See [the 'this' keyword](web-development/javascript/this) for more info.
 
 ## Types of EC
 ### Global EC

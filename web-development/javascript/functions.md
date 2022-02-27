@@ -7,7 +7,7 @@ Functions are one of the basic building blocks of JavaScript and allow us to reu
 
 A function declaration uses the `function` keyword to declare a function signature. 
 
-Function declarations in JavaScript are hoisted. See [Hoisting & TDZ](./hoisting-and-tdz.md) for more info. 
+Function declarations in JavaScript are hoisted. See [Hoisting & TDZ](web-development/javascript/hoisting-and-tdz) for more info. 
 
 e.g.
 
@@ -21,7 +21,7 @@ function printHelloWorld() {
 
 A function expression is when you declare a variable and assign it to an anonymous function.
 
-Function expressions are not hoisted. See [Hoisting & TDZ](./hoisting-and-tdz.md) for more info.
+Function expressions are not hoisted. See [Hoisting & TDZ](web-development/javascript/hoisting-and-tdz) for more info.
 
 e.g.
 
@@ -33,7 +33,7 @@ const printHelloWorld = function () {
 
 #### Arrow Functions
 
-Arrow functions are a type of function expression which do not have their own `this` keyword or `arguments` in their execution context. See [Execution Contexts](./execution-contexts.md) for more info.
+Arrow functions are a type of function expression which do not have their own `this` keyword or `arguments` in their execution context. See [Execution Contexts](web-development/javascript/expressions-and-statements) for more info.
 
 e.g.
 

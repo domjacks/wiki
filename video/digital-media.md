@@ -8,7 +8,7 @@ Standard set of rules for storing containers, codecs, metadata and folder struct
 
 The term "MP4" can be used to refer to the format, container, H.264 codec, ISO Base Media File so it can be quite confusing.
 
-> Note: See [Streaming](./streaming.md) for information on formats used for streaming
+> Note: See [Streaming](video/streaming) for information on formats used for streaming
 
 ## Container
 

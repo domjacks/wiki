@@ -14,7 +14,7 @@ Primitives are one half of the data types. They are the only data types that can
 
 The second half of the data types are objects. Objects are a fundamental building block of JavaScript.
 
-See [Object](./object.md) for more info.
+See [Objects](web-development/javascript/objects) for more info.
 
 ## Literals
 
