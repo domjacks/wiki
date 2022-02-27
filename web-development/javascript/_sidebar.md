@@ -4,7 +4,7 @@
 * [Data Types & Literals](web-development/javascript/data-types-and-literals)
 * [Functions](web-development/javascript/functions)
 * [Objects](web-development/javascript/objects)
-* [Data Structures]web-development/(javascript/data-structures)
+* [Data Structures](web-development/javascript/data-structures)
 * [Error Handling](web-development/javascript/error-handling)
 * [Engines & Runtimes](web-development/javascript/engines-and-runtimes)
 * [Execution Contexts](web-development/javascript/execution-contexts)
