@@ -11,3 +11,7 @@
 * [Scope Chain](web-development/javascript/scope-chain)
 * [Hoisting & TDZ](web-development/javascript/hoisting-and-tdz)
 * [The 'this' keyword](web-development/javascript/this)
+* [Promises](web-development/javascript/promises)
+* [Object-oriented Programming](web-development/javascript/oop)
+* [Iterators & Generators](web-development/javascript/iterators-and-generators)
+* [Modules](web-development/javascript/modules)
