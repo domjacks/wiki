@@ -2,7 +2,7 @@
 * [Fundamentals](web-development/fundamentals)
 * [HTML](web-development/html)
 * [CSS](web-development/css)
-* [Javascript](web-development/javascript)
+* [Javascript](web-development/javascript/)
 * [Accessibility](web-development/a11y)
 * [Internationalization](web-development/i18n)
 * [Performance](web-development/performance)
