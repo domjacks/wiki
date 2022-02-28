@@ -47,6 +47,14 @@ This is a strategy commonly used in video streaming to change the bitrate of the
 
 Where increasing the number of pixels is a common way to try and increase quality, improving the pixels themselves can often lead to better perceived quality. 
 
+### Specifications
+
+The two main specifications are BT.709 and BT.2020.
+
+Both these specs contain information regarding the dynamic range and colour gamut that should be available. 
+
+> DCI-P3 is another spec which is used for cinema
+
 ### Dynamic Range
 
 Dynamic range in video essentially means the range of contrast available for each pixel. Essentially, how much light each pixel should put out. This is called luminance.
@@ -101,11 +109,3 @@ Increases range of colors than the standard.
 Allows for "redder" reds and "greener" greens.
 
 > Often found with HDR, but it is not necesarily linked.
-
-### Specifications
-
-The two main specifications are BT.709 and BT.2020.
-
-Both these specs contain information regarding the dynamic range and colour gamut that should be available. 
-
-> DCI-P3 is another spec which is used for cinema
