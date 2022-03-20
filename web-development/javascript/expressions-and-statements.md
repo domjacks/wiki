@@ -20,9 +20,9 @@ An expression is any line of code that resolves to a value e.g.
 ## Statements
 
 * Declarations
-  * `var`
-  * `let`
-  * `const`
+  * `var` - Declares a variable globally or locally to an entire function
+  * `let` - Declares a variable scoped to the block it is within
+  * `const` - Same as `let` except it's immutable
 * Control Flow
   * `if...else`
   * `switch`
