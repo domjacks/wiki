@@ -12,7 +12,9 @@ All operators follow the Operator Precedence.
 
 ## Comparison
 
-* `==` vs `===`
+* Equality
+  * Loose quality: `==`
+  * Strict equality: `===`
 * `>`, `>=`, `<`, `<=`
 
 ## Logical
