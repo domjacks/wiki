@@ -6,7 +6,14 @@ Interlaced vs. Progressive
 
 ## Frame Rate
 
-50Hz vs 60Hz
+- 24Hz vs 30Hz
+- 50Hz vs 60Hz
+
+### Motion Interpolation
+
+AKA "The Soap Opera Effect". 
+
+Intermediate animation frames generated between existing ones to give a smoother/fluid look. 
 
 ## Bitrates
 
